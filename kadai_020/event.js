@@ -7,4 +7,4 @@ const textHeader = document.getElementById("text");
 textBtn.addEventListener("click", () => {
     // HTM要素がクリックされた時に表示するテキストを追加
     textHeader.textContent = "ボタンをクリックされました！"
-})
+});
